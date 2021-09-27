@@ -1,0 +1,11 @@
+.header{
+    background-color: rgb(202, 214, 214);
+    padding: 3% 2%;
+    margin: 0;
+    line-height: 10pxl;
+}
+
+.header-info{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
